@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhijit0
 - 👀 I’m interested in Machine Learning, ML Ops, Deep Learning and AI driven Software Development
-- 🌱 I’m currently learning Applied Machine / Deep Learning
+- 🌱 I’m currently learning Applied Machine Learning / Deep Learning
 - 💞️ I’m looking to collaborate on anything that is related software development mostly AI driven Software development
 - 📫 I can be reached through my email: abhijit.kurtakoti80@gmail.com
 
