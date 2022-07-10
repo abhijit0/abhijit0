@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhijit0
-- 👀 I’m interested in Machine Learning, ML Ops, Deep Learning and AI driven Software Development
-- 🌱 I’m currently learning Applied Machine Learning / Deep Learning
+- 👀 I’m a Software Engineering and Machine Learning enthusiast.
+- 🌱 Master Student in TU Kaiserslautern, Computer Science - specializing in Intelligent Systems and Software Engineering.
 - 📫 I can be reached by email: abhijit.kurtakoti80@gmail.com
 
 <!---
